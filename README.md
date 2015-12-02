@@ -17,7 +17,7 @@ run following commands:
 <h4>4 DI configuration & cache must be cleared</h4>
 <code>	rm -rf var/cache/ var/di/ var/generation/ var/page_cache/</code>
 	
-<h4>5 Compile ( if you have compilation enabled</h4>
+<h4>5 Compile ( if you have compilation enabled )</h4>
 <code>	bin/magento setup:di:compile </code>
 	
 <h4>6 Login into admin </h4>
