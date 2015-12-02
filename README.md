@@ -1,4 +1,4 @@
-# Product Thumbnail in Sales Emails
+# Magento2 :: Product Thumbnail in Sales Emails 
 
 This module will enable product image thumbnail on sales email. 
 
@@ -26,4 +26,5 @@ Stores -> Configuration ->
 Sales :: Sales Emails :: Sales Email Image Setting
 <br />
 <b>Enable :: Yes</b>
+<br />
 <b>Image Resize	:: 135 {Set your preffered size here}</b>
