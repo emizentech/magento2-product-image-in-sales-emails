@@ -24,13 +24,5 @@ run following commands:
 to Enable Module : go to 
 Stores -> Configuration -> 
 Sales :: Sales Emails :: Sales Email Image Setting
-<h3Enable :: Yes</h3>
-<h3>Image Resize	:: 135 {Set your preffered size here}</h3>
-
-
-
-	
-	
-# Magento 2 cron
- bin/magento cron:run 
- 
+<b>Enable :: Yes</b>
+<b>Image Resize	:: 135 {Set your preffered size here}</b>
