@@ -18,7 +18,6 @@ if($imageSize <=10)
 	$imageSize = 135;
 $_imagehelper = $this->helper('Magento\Catalog\Helper\Image');
 $productImage = $_imagehelper->init($_item->getProduct(), 'category_page_list')->constrainOnly(FALSE)->keepAspectRatio(TRUE)->keepFrame(FALSE)->resize($imageSize)->getUrl();
-var_dump($block->getConfig('sales_email/imageconfig/enabled'));
 ?>
 <tr>
     <td class="item-info<?php if ($block->getItemOptions()): ?> has-extra<?php endif; ?>">
